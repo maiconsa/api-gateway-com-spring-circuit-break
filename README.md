@@ -1,4 +1,4 @@
-# spring api gateway e circui break
+# spring api gateway e circuit break
 Projeto desenvolvido com fim de aprendizagem de Spring Api Gateway com Circuit Break Resilience4J
 
 ## O que é uma API Gateway?
