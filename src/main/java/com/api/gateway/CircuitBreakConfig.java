@@ -19,7 +19,7 @@ public class CircuitBreakConfig {
 				builder -> builder
 						.timeLimiterConfig(TimeLimiterConfig.custom().timeoutDuration(Duration.ofMillis(300)).build())
 						.circuitBreakerConfig(circuitBreakerRegistry.getDefaultConfig()),
-				"backendB");
+				"app");
 		return reactiveResilience4JCircuitBreakerFactory;
 	}
 
