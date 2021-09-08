@@ -1,5 +1,5 @@
 # spring api gateway e circui break
-Projeto desenvolvido com fim de aprendizado de Spring Api Gateway com Circuit Break Resilience4J
+Projeto desenvolvido com fim de aprendizagem de Spring Api Gateway com Circuit Break Resilience4J
 
 ## O que é uma API Gateway?
   Basicamente o api gateway é responsável por fazer o roteamento das requisições para as aplicações responsável de acordo com o endpoint e regras pré estabelecidas.
